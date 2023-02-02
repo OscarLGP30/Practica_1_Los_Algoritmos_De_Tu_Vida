@@ -1,5 +1,7 @@
 # Practica_1_Los_Algoritmos_De_Tu_Vida
 
+*Mi repositorio: https://github.com/OscarLGP30/Practica_1_Los_Algoritmos_De_Tu_Vida.git*
+
 # Nota:
 # Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 
